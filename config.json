@@ -5,7 +5,7 @@
     "gcwa" : "-",
     "botName": "NanzzBotz",
     "footer": "api.zeeoneofc.my.id",
-    "sessionName": "session.json",
+    "sessionName": "session",
     "fotoDonasi": "./Haruka.jpg",
     "pathimg": "./Haruka.jpg",
     "BotKey": "your key",
